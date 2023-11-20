@@ -1,4 +1,6 @@
 ## Hi there 👋
+Born in 1996 / From Yamanashi Prefecture / Living in Tokyo  
+Currently, I am working as a coder at a business company.
 
 ![Anurag's GitHub stats](https://github-readme-stats-zj77.vercel.app/api?username=ippei-shimizu&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats-zj77.vercel.app/api/top-langs/?username=ippei-shimizu&layout=compact&theme=great-gatsby)
