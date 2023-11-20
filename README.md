@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-zj77.vercel.app/api/top-langs/?username=ippei-shimizu&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-zj77.vercel.app/api?username=ippei-shimizu&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats-zj77.vercel.app/api/top-langs/?username=ippei-shimizu&layout=compact&theme=great-gatsby)
 
 <!--
 **ippei-shimizu/ippei-shimizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
