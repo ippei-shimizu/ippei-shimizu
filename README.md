@@ -77,6 +77,8 @@ Currently, I am working as a coder at a business company.
   </a> 
 </p>
 
+**[清水 一平  Ippei Shimizu｜Portfolio](https://ippei.dev/)**
+
 <!--
 **ippei-shimizu/ippei-shimizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
