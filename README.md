@@ -27,11 +27,6 @@ Currently, I am working as a coder at a business company.
   </a>
 </p>
 
-<p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats-zj77.vercel.app/api?username=ippei-shimizu&show_icons=true&theme=great-gatsby&cache_seconds=86400" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-zj77.vercel.app/api/top-langs/?username=ippei-shimizu&layout=compact&theme=great-gatsby&cache_seconds=86400" />
-</p>
-
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
