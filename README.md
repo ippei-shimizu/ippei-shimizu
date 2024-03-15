@@ -12,7 +12,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 BUZZ BASE : https://buzzbase.jp/  
 Onesite : https://www.onesite-web.com/
 
-### ✨ Skills & Learning In Progress
+### 💫 Skills & Learning In Progress
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,ts,nextjs,jquery,ruby,rails,wordpress,docker,vscode,ai,ps)](https://skillicons.dev)
 
@@ -39,4 +39,3 @@ Onesite : https://www.onesite-web.com/
     <img height="20" src="https://badgen.org/img/zenn/ippe/articles?style=plastic" alt="Articles" />
   </a>
 </p>
-
