@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-Born in 1996 / From Yamanashi Prefecture / Living in Tokyo  
-Currently, I am working as a coder at a business company.
+My name is Ippei Shimizu.  
+Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
+
+### 🦄 Profile Site  
+
+https://ippei.dev/
 
 <p align="left">
-  <a href="https://github.com/ippei-shimizu/ippei-shimizu/">
-    <img src="https://komarev.com/ghpvc/?username=ippei-shimizu" alt="ippei-shimizu" />
+  <a href="http://qiita.com/ippei_jp">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/contributions.svg" />
   </a>
-  <a href="http://twitter.com/ippei_111">
-    <img height="20" src="https://img.shields.io/twitter/follow/ippei_111?label=X&logo=X&style=flat" />
+  <a href="http://qiita.com/ippei_jp">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/posts.svg" />
   </a>
   <a href="https://zenn.dev/ippe">
     <img height="20" src="https://badgen.org/img/zenn/ippe/likes?style=plastic" alt="Likes" />
@@ -18,12 +22,6 @@ Currently, I am working as a coder at a business company.
   </a>
   <a href="https://zenn.dev/ippe">
     <img height="20" src="https://badgen.org/img/zenn/ippe/articles?style=plastic" alt="Articles" />
-  </a>
-  <a href="http://qiita.com/ippei_jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/ippei_jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/posts.svg" />
   </a>
 </p>
 
