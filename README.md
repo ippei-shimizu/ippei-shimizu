@@ -4,7 +4,6 @@ My name is Ippei Shimizu.
 Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 ### 🦄 Profile Site  
-
 https://ippei.dev/
 
 <p align="left">
