@@ -3,7 +3,7 @@
 My name is Ippei Shimizu.  
 Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
-- 🔭 I’m currently interested in React, TypeScript, Ruby, and Ruby on Rails.
+- 🔭 I’m currently interested in React, TypeScript, Next.js, Ruby, and Ruby on Rails.
 - 🌱 I’m currently learning about web development.
 - 📫 How to reach me : [X @ippei_111](https://twitter.com/ippei_111)
 - 🌞 My profile site : https://ippei.dev/
