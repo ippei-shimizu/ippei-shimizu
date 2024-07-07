@@ -18,10 +18,10 @@ Onesite : https://www.onesite-web.com/
 
 ### 📝 Article
 
-- [useEffectの基本的なアンチパターン](https://zenn.dev/ippe/articles/a53386986ff236)
-- [【個人開発】野球歴16年男が「野球の成績を記録して友達とランキング形式で共有できる」サービスを開発しました](https://qiita.com/ippei_jp/items/c3a10d7e3142723fae30)
-- [DockerでRailsAPIモード/Next.jsの環境構築をして、Fly.ioとVercelへデプロイしてみた](https://qiita.com/ippei_jp/items/1163a40a86d07fa691b2)
-- [型安全性を高めるTypeScriptのリテラル型の活用例](https://zenn.dev/ippe/articles/84ceb9c3c3c6a0)
+- [useEffectの基本的なアンチパターン - Zenn](https://zenn.dev/ippe/articles/a53386986ff236)
+- [【個人開発】野球歴16年男が「野球の成績を記録して友達とランキング形式で共有できる」サービスを開発しました - Qiita](https://qiita.com/ippei_jp/items/c3a10d7e3142723fae30)
+- [DockerでRailsAPIモード/Next.jsの環境構築をして、Fly.ioとVercelへデプロイしてみた - Qiita](https://qiita.com/ippei_jp/items/1163a40a86d07fa691b2)
+- [型安全性を高めるTypeScriptのリテラル型の活用例 - Zenn](https://zenn.dev/ippe/articles/84ceb9c3c3c6a0)
 - [Reactで金融機関検索APIをたたいてみた](https://zenn.dev/ippe/articles/3e3a86d32b271a)
 - [【Locomotive Scroll】と【GSAP】 を使用してパララックスサイトを制作してみた](https://www.onesite-web.com/blogs/locomotive-scroll-parallax)
 
