@@ -7,6 +7,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - 🌱 I’m currently learning about web development.
 - 📫 How to reach me : [X @ippei_111](https://twitter.com/ippei_111)
 - 🌞 My profile site : https://ippei.dev/
+- 🍀 RUNTEQ Social Portfolio : https://school.runteq.jp/social_portfolios/ippei
 
 ### 🧑‍💻 Personal Development
 BUZZ BASE : https://buzzbase.jp/  
