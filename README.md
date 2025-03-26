@@ -11,11 +11,11 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 ### 🧑‍💻 Personal Development
 #### BUZZ BASE  
-https://buzzbase.jp/
+https://buzzbase.jp/  
 <img src="https://buzzbase.jp/opengraph-image.png?55ff9c44125f3530" alt="BUZZ BASE" width="300" />
 
 #### Onesite  
-https://www.onesite-web.com/
+https://www.onesite-web.com/  
 <img src="https://onesite-rouge.vercel.app/onesite-ogp.jpg" alt="Onesite" width="300" />
 
 ### 💫 Skills & Learning In Progress
