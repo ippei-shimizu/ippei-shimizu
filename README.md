@@ -10,12 +10,15 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - 🍀 RUNTEQ Social Portfolio : https://school.runteq.jp/social_portfolios/ippei
 
 ### 🧑‍💻 Personal Development
-#### BUZZ BASE  
+
+<strong>BUZZ BASE</strong>  
 https://buzzbase.jp/  
+
 <img src="https://buzzbase.jp/opengraph-image.png?55ff9c44125f3530" alt="BUZZ BASE" width="300" />
 
-#### Onesite  
+<strong>Onesite</strong>  
 https://www.onesite-web.com/  
+
 <img src="https://onesite-rouge.vercel.app/onesite-ogp.jpg" alt="Onesite" width="300" />
 
 ### 💫 Skills & Learning In Progress
