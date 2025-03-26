@@ -9,6 +9,10 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - 🌞 My profile site : https://ippei.dev/
 - 🍀 RUNTEQ Social Portfolio : https://school.runteq.jp/social_portfolios/ippei
 
+### 💫 Skills & Learning In Progress
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,ts,nextjs,jquery,ruby,rails,wordpress,docker,vscode,ai,ps)](https://skillicons.dev)
+
 ### 🧑‍💻 Personal Development
 
 <strong>BUZZ BASE</strong> : https://buzzbase.jp/  
@@ -18,10 +22,6 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 <strong>Onesite</strong> : https://www.onesite-web.com/  
 
 <img src="https://onesite-rouge.vercel.app/onesite-ogp.jpg" alt="Onesite" width="300" />
-
-### 💫 Skills & Learning In Progress
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,ts,nextjs,jquery,ruby,rails,wordpress,docker,vscode,ai,ps)](https://skillicons.dev)
 
 ### 📝 Article
 
