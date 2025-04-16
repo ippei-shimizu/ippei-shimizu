@@ -25,6 +25,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 ### 📝 Article
 
+- [ハンズオン！Next.js+Hono+RPC+Supabase+Drizzle+pnpm+Turborepoで作るモノレポ構成のアプリ開発](https://zenn.dev/ippe/articles/7782e701f8df26)
 - [個人開発でデザインに悩むエンジニアへ。工数を抑えていい感じのUIを作る方法【Meraki UI】](https://zenn.dev/ippe/articles/1495eab44bde18)
 - [useEffectの基本的なアンチパターン - Zenn](https://zenn.dev/ippe/articles/a53386986ff236)
 - [【個人開発】野球歴16年男が「野球の成績を記録して友達とランキング形式で共有できる」サービスを開発しました - Qiita](https://qiita.com/ippei_jp/items/c3a10d7e3142723fae30)
