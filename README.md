@@ -11,7 +11,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 ### 💫 Skills & Learning In Progress
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,react,ts,nextjs,jquery,ruby,rails,wordpress,docker,vscode,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,ts,nextjs,html,css,scss,tailwind,jquery,wordpress,docker,vscode,ai,ps)](https://skillicons.dev)
 
 ### 🧑‍💻 Personal Development
 
