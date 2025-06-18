@@ -36,12 +36,6 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - [【Locomotive Scroll】と【GSAP】 を使用してパララックスサイトを制作してみた](https://www.onesite-web.com/blogs/locomotive-scroll-parallax)
 
 <p align="left">
-  <a href="http://qiita.com/ippei_jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/ippei_jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ippei_jp/posts.svg" />
-  </a>
   <a href="https://zenn.dev/ippe">
     <img height="20" src="https://badgen.org/img/zenn/ippe/likes?style=plastic" alt="Likes" />
   </a>
