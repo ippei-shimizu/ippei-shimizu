@@ -34,6 +34,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - [型安全性を高めるTypeScriptのリテラル型の活用例 - Zenn](https://zenn.dev/ippe/articles/84ceb9c3c3c6a0)
 - [Reactで金融機関検索APIをたたいてみた - Zenn](https://zenn.dev/ippe/articles/3e3a86d32b271a)
 - [【Locomotive Scroll】と【GSAP】 を使用してパララックスサイトを制作してみた](https://www.onesite-web.com/blogs/locomotive-scroll-parallax)
+- [JWT認証を仕組みから実装まで理解する](https://zenn.dev/ippe/articles/jwt-auth-ippei)
 
 <p align="left">
   <a href="https://zenn.dev/ippe">
