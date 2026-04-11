@@ -18,10 +18,6 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 <img src="https://buzzbase.jp/opengraph-image.png?55ff9c44125f3530" alt="BUZZ BASE" width="300" />
 
-<strong>Onesite</strong> : https://www.onesite-web.com/  
-
-<img src="https://onesite-rouge.vercel.app/onesite-ogp.jpg" alt="Onesite" width="300" />
-
 ### 📝 Article
 
 - [ハンズオン！Next.js+Hono+RPC+Supabase+Drizzle+pnpm+Turborepoで作るモノレポ構成のアプリ開発](https://zenn.dev/ippe/articles/7782e701f8df26)
