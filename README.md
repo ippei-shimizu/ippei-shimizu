@@ -14,7 +14,9 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 
 ### 🧑‍💻 Personal Development
 
-<strong>BUZZ BASE</strong> : https://buzzbase.jp/  
+<strong>BUZZ BASE</strong>
+- Web : https://buzzbase.jp/
+- iOS : https://apps.apple.com/jp/app/buzz-base/id6761011816
 
 <img src="https://buzzbase.jp/opengraph-image.png?55ff9c44125f3530" alt="BUZZ BASE" width="300" />
 
