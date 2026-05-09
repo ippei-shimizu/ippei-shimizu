@@ -32,6 +32,7 @@ Born in 1996 / From Yamanashi Prefecture / Working in Tokyo
 - [Reactで金融機関検索APIをたたいてみた - Zenn](https://zenn.dev/ippe/articles/3e3a86d32b271a)
 - [【Locomotive Scroll】と【GSAP】 を使用してパララックスサイトを制作してみた](https://www.onesite-web.com/blogs/locomotive-scroll-parallax)
 - [JWT認証を仕組みから実装まで理解する](https://zenn.dev/ippe/articles/jwt-auth-ippei)
+- [コードを書きながら学ぶ プログラミングの原理原則](https://zenn.dev/ippe/articles/learn-programming-principles-by-coding)
 
 <p align="left">
   <a href="https://zenn.dev/ippe">
